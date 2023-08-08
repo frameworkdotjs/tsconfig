@@ -1,0 +1,26 @@
+{
+  "name": "@frameworkdotjs/tsconfig",
+  "version": "0.1.0",
+  "description": "Shared TypeScript config for @frameworkdotjs",
+  "repository": "https://github.com/frameworkdotjs/tsconfig.git",
+  "author": "Framework.js <https://github.com/frameworkdotjs/tsconfig>",
+  "license": "MIT",
+  "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tsconfig"
+  ],
+  "packageManager": "pnpm@8.6.12",
+  "engines": {
+    "node": ">=12",
+    "typescript": ">=4"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
