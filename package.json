@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Shared TypeScript config for @frameworkdotjs",
   "repository": "https://github.com/frameworkdotjs/tsconfig.git",
-  "author": "Framework.js <https://github.com/frameworkdotjs/tsconfig>",
+  "author": "Framework.js <https://github.com/frameworkdotjs>",
   "license": "MIT",
   "main": "tsconfig.json",
   "files": [
